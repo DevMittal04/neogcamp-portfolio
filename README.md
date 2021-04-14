@@ -1,2 +1,3 @@
-# neog-lesson-3-portfolio
-Coding for neog camp lesson 3 - HTML and CSS Component Library
+# Portfolio
+
+This is my Portfolio repository which consists the links of my projects and blog
